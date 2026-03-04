@@ -48,10 +48,10 @@
 
 ### Step 2. 스냅샷 템플릿을 채운다
 
-`CGM_프로젝트_스냅샷_템플릿.md`를 복사해서 현재 프로젝트 상태를 채운다.  
+`CGM_project_snapshot_template.md`를 복사해서 현재 프로젝트 상태를 채운다.  
 클마에게 올 때 이 파일을 함께 가져오면 바로 심사에 들어갈 수 있다.
 
-→ 템플릿: [CGM_프로젝트_스냅샷_템플릿.md](./CGM_프로젝트_스냅샷_템플릿.md)
+→ 템플릿: [CGM_project_snapshot_template.md](./CGM_project_snapshot_template.md)
 
 ### Step 3. 클마에게 첫 대화를 시작한다
 
