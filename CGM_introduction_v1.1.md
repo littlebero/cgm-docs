@@ -48,17 +48,19 @@
 
 ### Step 2. 스냅샷 템플릿을 채운다
 
-`CGM_project_snapshot_template.md`를 복사해서 현재 프로젝트 상태를 채운다.  
-클마에게 올 때 이 파일을 함께 가져오면 바로 심사에 들어갈 수 있다.
+브라우저에서 아래 링크를 열고 **Raw 버튼**을 클릭한 뒤 전체 내용을 복사한다.  
+→ [CGM_project_snapshot_template.md](./CGM_project_snapshot_template.md)
 
-→ 템플릿: [CGM_project_snapshot_template.md](./CGM_project_snapshot_template.md)
+복사한 내용을 `.md` 파일로 저장하고 현재 프로젝트 상태를 채운다.
+
+> ⚠️ 이 링크를 클로드 대화창에 직접 붙여넣지 않는다. 클로드는 외부 URL을 가져올 수 없다. 반드시 파일로 저장해서 첨부한다.
 
 ### Step 3. 클마에게 첫 대화를 시작한다
 
 `claude.ai` → CGM 프로젝트 열기
 
 첨부할 것:
-- 채운 스냅샷 템플릿
+- 채운 스냅샷 템플릿 (파일로 저장해서 첨부)
 - 시스템 프롬프트 파일
 - 스킬 파일 (있다면 전부)
 - 실제 출력 샘플 (잘된 것 1개 + 아쉬운 것 1개)
